@@ -22,7 +22,7 @@
                 case "english":
                 case "literature":
                 case "lit":  
-                case "reading"    
+                case "reading":    
                     Console.WriteLine("English/literature is my absolute favorite");
                     break;
                 case "history":
